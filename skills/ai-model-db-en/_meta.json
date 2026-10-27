@@ -1,0 +1,8 @@
+{
+  "slug": "ai-model-db-en",
+  "version": "1.7.0",
+  "edition": "en",
+  "displayName": "AI model specifications and prices (EN)",
+  "summary": "Query structured AI model specifications, context windows, licences and API prices. Use for model comparisons and pricing questions, not model launch news.",
+  "license": "MIT"
+}

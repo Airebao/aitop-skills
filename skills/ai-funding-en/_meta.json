@@ -1,0 +1,8 @@
+{
+  "slug": "ai-funding-en",
+  "version": "1.7.0",
+  "edition": "en",
+  "displayName": "AI funding and policy news (EN)",
+  "summary": "Read recent AI funding and policy news. Use for news coverage; use ai-funding-db or ai-policy-desk for structured records.",
+  "license": "MIT"
+}

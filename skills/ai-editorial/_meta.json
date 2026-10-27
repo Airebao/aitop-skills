@@ -1,0 +1,8 @@
+{
+  "slug": "ai-editorial",
+  "version": "1.7.0",
+  "edition": "zh",
+  "displayName": "AI 深度长文",
+  "summary": "获取 AI热报 编辑团队撰写的 AI 深度文章与评述全文。用于“有没有写得更深一点的文章”“关于 XX 的长文/评述”“帮我把某件事的完整分析拿来”“有什么可以慢读的 AI 内容”等需要成篇论述而非快讯条目的请求。与 ai-news 的区别：ai-news 给的是几十字的新闻条目，本 skill 给的是完整正文。",
+  "license": "MIT"
+}

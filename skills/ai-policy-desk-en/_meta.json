@@ -1,0 +1,8 @@
+{
+  "slug": "ai-policy-desk-en",
+  "version": "1.7.0",
+  "edition": "en",
+  "displayName": "AI policy desk (EN)",
+  "summary": "Query published AI policies, consultation deadlines and effective dates. Use for structured policy research and verify conclusions against official documents.",
+  "license": "MIT"
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "ai-model-db",
+  "version": "1.7.0",
+  "edition": "zh",
+  "displayName": "大模型参数与价格库",
+  "summary": "查询 AITOP 模型库里大模型的规格、价格与开源信息：机构、发布日期、参数规模、上下文长度、API 价格与调价记录、开放权重与协议。用于“Claude Opus 5.5 的 API 多少钱”“哪些开源模型可以商用”“上下文最长的模型有哪些”“Qwen 和 DeepSeek 价格对比”“某模型什么时候发布的”等选型与比价请求。模型的新闻动态请用 ai-models。",
+  "license": "MIT"
+}

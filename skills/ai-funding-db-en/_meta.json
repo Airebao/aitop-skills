@@ -1,0 +1,8 @@
+{
+  "slug": "ai-funding-db-en",
+  "version": "1.7.0",
+  "edition": "en",
+  "displayName": "AI funding records (EN)",
+  "summary": "Query structured AI funding rounds by company, country, date or stage. Use for investment records and statistics, not general funding news.",
+  "license": "MIT"
+}

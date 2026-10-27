@@ -1,0 +1,8 @@
+{
+  "slug": "ai-models",
+  "version": "1.7.0",
+  "edition": "zh",
+  "displayName": "大模型发布追踪",
+  "summary": "追踪大模型的发布、更新与版本迭代。用于“最近有什么新模型”“GPT/Claude/Gemini/Qwen 有更新吗”“最新的开源模型”“模型跑分对比”等关于大模型本身的请求。不涵盖 AI 产品、论文和融资。",
+  "license": "MIT"
+}

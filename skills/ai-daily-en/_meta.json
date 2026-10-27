@@ -1,0 +1,8 @@
+{
+  "slug": "ai-daily-en",
+  "version": "1.7.0",
+  "edition": "en",
+  "displayName": "AI daily briefing (EN)",
+  "summary": "Read AITOP's published daily briefing for today or a specified date. Use when the user explicitly asks for a daily briefing, not a rolling news feed.",
+  "license": "MIT"
+}

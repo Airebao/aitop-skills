@@ -1,0 +1,8 @@
+{
+  "slug": "ai-rank-en",
+  "version": "1.7.0",
+  "edition": "en",
+  "displayName": "AI weekly charts (EN)",
+  "summary": "Read AITOP's editorial weekly AI charts and company rankings. Use for current or historical weekly rankings, not a real-time popularity score.",
+  "license": "MIT"
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "ai-funding",
+  "version": "1.7.0",
+  "edition": "zh",
+  "displayName": "AI 投融资与政策",
+  "summary": "追踪 AI 领域的融资、并购、公司动向与监管政策。用于“最近有什么 AI 融资”“XX 公司融资了吗”“AI 监管有什么新规定”“行业有什么大事”等关于商业与政策的请求。",
+  "license": "MIT"
+}

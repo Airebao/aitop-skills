@@ -1,0 +1,8 @@
+{
+  "slug": "ai-labs-en",
+  "version": "1.7.0",
+  "edition": "en",
+  "displayName": "Official AI lab updates (EN)",
+  "summary": "Read official announcements from AI labs and companies. Use when the user wants first-party updates rather than secondary coverage.",
+  "license": "MIT"
+}

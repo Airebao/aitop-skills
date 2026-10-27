@@ -1,0 +1,8 @@
+{
+  "slug": "ai-topics",
+  "version": "1.7.0",
+  "edition": "zh",
+  "displayName": "AI 内容选题雷达",
+  "summary": "为公众号、视频、newsletter 等内容创作找 AI 选题。用于“有什么可以写的 AI 选题”“帮我找个热点写文章”“这周适合做什么内容”“给我几个切入角度”等内容创作相关的请求。",
+  "license": "MIT"
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "ai-rank",
+  "version": "1.7.0",
+  "edition": "zh",
+  "displayName": "AI 周榜",
+  "summary": "获取 AITOP 每周 AI 榜单：东盟、中国、全球、论文四个分榜，出海与资本等专题榜，以及东盟 AI 公司榜。用于“这周的 AI 周榜”“上周东盟 AI 最受关注的是什么”“本周论文榜”“AI 公司排行”等按周排行的请求。想要按主题归类的一周回顾请用 ai-weekly。",
+  "license": "MIT"
+}

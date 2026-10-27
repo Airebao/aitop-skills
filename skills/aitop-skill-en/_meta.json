@@ -1,0 +1,8 @@
+{
+  "slug": "aitop-skill-en",
+  "version": "1.7.0",
+  "edition": "en",
+  "displayName": "AITOP news assistant (EN)",
+  "summary": "Read recent AI news, daily briefings, search results and story details from AITOP. Use for broad AI news requests and source verification.",
+  "license": "MIT"
+}

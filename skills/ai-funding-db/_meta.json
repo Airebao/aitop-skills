@@ -1,0 +1,8 @@
+{
+  "slug": "ai-funding-db",
+  "version": "1.7.0",
+  "edition": "zh",
+  "displayName": "AI 融资数据表",
+  "summary": "查询 AITOP 整理的 AI 融资与并购记录（公司、轮次、金额、投资方、日期），以及近 90 天的国家分布与总额统计。用于“最近有哪些 AI 公司拿了 B 轮”“新加坡 AI 公司融资情况”“最近 90 天 AI 融资总额”“某公司的融资记录”等需要具体交易数据的请求。只想看融资新闻快讯请用 ai-funding。",
+  "license": "MIT"
+}

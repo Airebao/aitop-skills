@@ -1,0 +1,8 @@
+{
+  "slug": "ai-weekly-en",
+  "version": "1.7.0",
+  "edition": "en",
+  "displayName": "AI week in review (EN)",
+  "summary": "Review AI news from the past seven days, grouped by topic. Use when the user asks for a weekly recap or wants to catch up after a week away.",
+  "license": "MIT"
+}

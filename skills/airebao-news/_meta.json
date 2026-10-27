@@ -1,0 +1,8 @@
+{
+  "slug": "airebao-news",
+  "version": "1.7.0",
+  "edition": "zh",
+  "displayName": "AI热报 AI 新闻速览",
+  "summary": "获取最近 24 小时到几天内的 AI 行业新闻。用于“今天 AI 圈有什么”“最近 AI 有什么新闻”“这两天发生了什么”“有什么值得关注的 AI 动态”等询问近期 AI 消息的请求。",
+  "license": "MIT"
+}

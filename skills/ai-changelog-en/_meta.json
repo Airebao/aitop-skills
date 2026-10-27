@@ -1,0 +1,8 @@
+{
+  "slug": "ai-changelog-en",
+  "version": "1.7.0",
+  "edition": "en",
+  "displayName": "AITOP changelog (EN)",
+  "summary": "Read AITOP's own product changelog: new features, improvements and fixes. Use for requests about what the platform itself updated, not for AI industry news.",
+  "license": "MIT"
+}

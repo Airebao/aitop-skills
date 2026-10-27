@@ -1,0 +1,8 @@
+{
+  "slug": "ai-rising-en",
+  "version": "1.7.0",
+  "edition": "en",
+  "displayName": "Rising AI topics (EN)",
+  "summary": "Read rising AI keywords and their trend ratios. Use when the user asks what is trending or gaining momentum, rather than for a chronological news list.",
+  "license": "MIT"
+}

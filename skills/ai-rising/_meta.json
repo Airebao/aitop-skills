@@ -1,0 +1,8 @@
+{
+  "slug": "ai-rising",
+  "version": "1.7.0",
+  "edition": "zh",
+  "displayName": "AI 上升热榜",
+  "summary": "查看 AITOP 按热度增速排出的 AI 上升榜。用于“现在 AI 圈什么最火”“什么在涨”“有什么正在发酵/出圈的事”“今天讨论最多的 AI 话题”“按热度排一下”等关注趋势与讨论量的请求。与 ai-news 的区别：ai-news 按时间给最新条目，本 skill 按增速给最热的话题词。",
+  "license": "MIT"
+}

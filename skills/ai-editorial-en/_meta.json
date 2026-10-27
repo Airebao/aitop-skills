@@ -1,0 +1,8 @@
+{
+  "slug": "ai-editorial-en",
+  "version": "1.7.0",
+  "edition": "en",
+  "displayName": "AITOP editorial articles (EN)",
+  "summary": "Read AITOP's published editorial articles and long-form analysis. Use for article lists and full article text, not news-item excerpts.",
+  "license": "MIT"
+}

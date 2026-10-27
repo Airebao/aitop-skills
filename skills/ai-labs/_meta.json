@@ -1,0 +1,8 @@
+{
+  "slug": "ai-labs",
+  "version": "1.7.0",
+  "edition": "zh",
+  "displayName": "大厂一手动态",
+  "summary": "获取 OpenAI、Anthropic、Google、Meta 等 AI 厂商与实验室的官方一手发布。用于“OpenAI 官方最近发了什么”“各家大厂有什么动作”“官方博客有更新吗”等要求一手信源、排除媒体转述的请求。",
+  "license": "MIT"
+}

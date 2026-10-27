@@ -1,0 +1,8 @@
+{
+  "slug": "ai-topic-en",
+  "version": "1.7.0",
+  "edition": "en",
+  "displayName": "AI topic explorer (EN)",
+  "summary": "Explore an AI keyword's coverage, related topics and original sources. Use to trace a specific topic; use ai-rising for an overview of trends.",
+  "license": "MIT"
+}

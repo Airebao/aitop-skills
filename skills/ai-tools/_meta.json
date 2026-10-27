@@ -1,0 +1,8 @@
+{
+  "slug": "ai-tools",
+  "version": "1.7.0",
+  "edition": "zh",
+  "displayName": "AI 工具发现",
+  "summary": "发现新的 AI 产品与工具。用于“最近有什么好用的 AI 工具”“有什么新 AI 产品”“有没有做 XX 的 AI 应用”“最近上线了什么”等寻找可用工具的请求。不涵盖模型本身和论文。",
+  "license": "MIT"
+}

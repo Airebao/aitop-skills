@@ -1,0 +1,8 @@
+{
+  "slug": "ai-tools-en",
+  "version": "1.7.0",
+  "edition": "en",
+  "displayName": "AI product discovery (EN)",
+  "summary": "Read recent AI product and tool launches. Use when the user asks about new AI applications or tools to try.",
+  "license": "MIT"
+}

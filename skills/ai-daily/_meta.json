@@ -1,0 +1,8 @@
+{
+  "slug": "ai-daily",
+  "version": "1.7.0",
+  "edition": "zh",
+  "displayName": "AI 日报",
+  "summary": "获取 AITOP 每日精编 AI 日报。用于“今天的 AI 日报”“看下昨天的日报”“某月某日的 AI 日报”“最近几期日报”等明确要求日报的请求。日报是按日期定稿的编排内容，不是滚动时间窗。",
+  "license": "MIT"
+}

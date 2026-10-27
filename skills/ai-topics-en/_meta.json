@@ -1,0 +1,8 @@
+{
+  "slug": "ai-topics-en",
+  "version": "1.7.0",
+  "edition": "en",
+  "displayName": "AI editorial angle finder (EN)",
+  "summary": "Find recent AI news suitable for articles and suggest distinct editorial angles. Use for content planning and topic selection, without inventing facts.",
+  "license": "MIT"
+}

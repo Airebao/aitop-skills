@@ -1,0 +1,8 @@
+{
+  "slug": "ai-papers",
+  "version": "1.7.0",
+  "edition": "zh",
+  "displayName": "AI 论文速递",
+  "summary": "获取近期值得关注的 AI 研究论文。用于“最近有什么好论文”“这周的 AI 论文”“有没有关于 XX 方向的新研究”“arXiv 上有什么值得读的”等查找学术研究的请求。",
+  "license": "MIT"
+}

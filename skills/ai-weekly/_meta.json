@@ -1,0 +1,8 @@
+{
+  "slug": "ai-weekly",
+  "version": "1.7.0",
+  "edition": "zh",
+  "displayName": "AI 一周回顾",
+  "summary": "汇总过去一周的 AI 行业动态。用于“这周 AI 发生了什么”“上周有什么重要的”“我一周没看了帮我补一下”“做个周报”等需要跨天汇总的请求。",
+  "license": "MIT"
+}

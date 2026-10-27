@@ -1,0 +1,8 @@
+{
+  "slug": "ai-news-en",
+  "version": "1.7.0",
+  "edition": "en",
+  "displayName": "AI news digest (EN)",
+  "summary": "Read AI industry news from the last 24 hours or several days. Use for requests such as what happened in AI today or what AI news is worth following.",
+  "license": "MIT"
+}

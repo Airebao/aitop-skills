@@ -1,0 +1,8 @@
+{
+  "slug": "ai-models-en",
+  "version": "1.7.0",
+  "edition": "en",
+  "displayName": "Model release tracker (EN)",
+  "summary": "Read recent AI model launches, updates and benchmark reporting. For model specifications or current API prices use ai-model-db instead.",
+  "license": "MIT"
+}

@@ -1,0 +1,8 @@
+{
+  "slug": "ai-papers-en",
+  "version": "1.7.0",
+  "edition": "en",
+  "displayName": "AI research digest (EN)",
+  "summary": "Read recent AI research papers and research news. Use for requests about new papers or this week's AI research.",
+  "license": "MIT"
+}

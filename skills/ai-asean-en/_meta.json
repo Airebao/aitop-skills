@@ -1,0 +1,8 @@
+{
+  "slug": "ai-asean-en",
+  "version": "1.7.0",
+  "edition": "en",
+  "displayName": "ASEAN AI briefing (EN)",
+  "summary": "Create an ASEAN AI briefing from weekly charts, disclosed funding and policy records. Use for Southeast Asia or a named ASEAN country.",
+  "license": "MIT"
+}
