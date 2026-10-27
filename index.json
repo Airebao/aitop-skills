@@ -23,7 +23,9 @@
       "edition": "en",
       "displayName": "ASEAN AI briefing (EN)",
       "summary": "Create an ASEAN AI briefing from weekly charts, disclosed funding and policy records. Use for Southeast Asia or a named ASEAN country.",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/ai-asean-en",
+      "install": "skillhub install ai-asean-en"
     },
     {
       "slug": "ai-changelog-en",
@@ -31,7 +33,9 @@
       "edition": "en",
       "displayName": "AITOP changelog (EN)",
       "summary": "Read AITOP's own product changelog: new features, improvements and fixes. Use for requests about what the platform itself updated, not for AI industry news.",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/ai-changelog-en",
+      "install": "skillhub install ai-changelog-en"
     },
     {
       "slug": "ai-daily-en",
@@ -39,7 +43,9 @@
       "edition": "en",
       "displayName": "AI daily briefing (EN)",
       "summary": "Read AITOP's published daily briefing for today or a specified date. Use when the user explicitly asks for a daily briefing, not a rolling news feed.",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/ai-daily-en",
+      "install": "skillhub install ai-daily-en"
     },
     {
       "slug": "ai-editorial-en",
@@ -47,7 +53,9 @@
       "edition": "en",
       "displayName": "AITOP editorial articles (EN)",
       "summary": "Read AITOP's published editorial articles and long-form analysis. Use for article lists and full article text, not news-item excerpts.",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/ai-editorial-en",
+      "install": "skillhub install ai-editorial-en"
     },
     {
       "slug": "ai-funding-db-en",
@@ -55,7 +63,9 @@
       "edition": "en",
       "displayName": "AI funding records (EN)",
       "summary": "Query structured AI funding rounds by company, country, date or stage. Use for investment records and statistics, not general funding news.",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/ai-funding-db-en",
+      "install": "skillhub install ai-funding-db-en"
     },
     {
       "slug": "ai-funding-en",
@@ -63,7 +73,9 @@
       "edition": "en",
       "displayName": "AI funding and policy news (EN)",
       "summary": "Read recent AI funding and policy news. Use for news coverage; use ai-funding-db or ai-policy-desk for structured records.",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/ai-funding-en",
+      "install": "skillhub install ai-funding-en"
     },
     {
       "slug": "ai-labs-en",
@@ -71,7 +83,9 @@
       "edition": "en",
       "displayName": "Official AI lab updates (EN)",
       "summary": "Read official announcements from AI labs and companies. Use when the user wants first-party updates rather than secondary coverage.",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/ai-labs-en",
+      "install": "skillhub install ai-labs-en"
     },
     {
       "slug": "ai-model-db-en",
@@ -79,7 +93,9 @@
       "edition": "en",
       "displayName": "AI model specifications and prices (EN)",
       "summary": "Query structured AI model specifications, context windows, licences and API prices. Use for model comparisons and pricing questions, not model launch news.",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/ai-model-db-en",
+      "install": "skillhub install ai-model-db-en"
     },
     {
       "slug": "ai-models-en",
@@ -87,7 +103,9 @@
       "edition": "en",
       "displayName": "Model release tracker (EN)",
       "summary": "Read recent AI model launches, updates and benchmark reporting. For model specifications or current API prices use ai-model-db instead.",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/ai-models-en",
+      "install": "skillhub install ai-models-en"
     },
     {
       "slug": "ai-news-en",
@@ -95,7 +113,9 @@
       "edition": "en",
       "displayName": "AI news digest (EN)",
       "summary": "Read AI industry news from the last 24 hours or several days. Use for requests such as what happened in AI today or what AI news is worth following.",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/ai-news-en",
+      "install": "skillhub install ai-news-en"
     },
     {
       "slug": "ai-papers-en",
@@ -103,7 +123,9 @@
       "edition": "en",
       "displayName": "AI research digest (EN)",
       "summary": "Read recent AI research papers and research news. Use for requests about new papers or this week's AI research.",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/ai-papers-en",
+      "install": "skillhub install ai-papers-en"
     },
     {
       "slug": "ai-policy-desk-en",
@@ -111,7 +133,9 @@
       "edition": "en",
       "displayName": "AI policy desk (EN)",
       "summary": "Query published AI policies, consultation deadlines and effective dates. Use for structured policy research and verify conclusions against official documents.",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/ai-policy-desk-en",
+      "install": "skillhub install ai-policy-desk-en"
     },
     {
       "slug": "ai-rank-en",
@@ -119,7 +143,9 @@
       "edition": "en",
       "displayName": "AI weekly charts (EN)",
       "summary": "Read AITOP's editorial weekly AI charts and company rankings. Use for current or historical weekly rankings, not a real-time popularity score.",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/ai-rank-en",
+      "install": "skillhub install ai-rank-en"
     },
     {
       "slug": "ai-rising-en",
@@ -127,7 +153,9 @@
       "edition": "en",
       "displayName": "Rising AI topics (EN)",
       "summary": "Read rising AI keywords and their trend ratios. Use when the user asks what is trending or gaining momentum, rather than for a chronological news list.",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/ai-rising-en",
+      "install": "skillhub install ai-rising-en"
     },
     {
       "slug": "ai-tools-en",
@@ -135,7 +163,9 @@
       "edition": "en",
       "displayName": "AI product discovery (EN)",
       "summary": "Read recent AI product and tool launches. Use when the user asks about new AI applications or tools to try.",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/ai-tools-en",
+      "install": "skillhub install ai-tools-en"
     },
     {
       "slug": "ai-topic-en",
@@ -143,7 +173,9 @@
       "edition": "en",
       "displayName": "AI topic explorer (EN)",
       "summary": "Explore an AI keyword's coverage, related topics and original sources. Use to trace a specific topic; use ai-rising for an overview of trends.",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/ai-topic-en",
+      "install": "skillhub install ai-topic-en"
     },
     {
       "slug": "ai-topics-en",
@@ -151,7 +183,9 @@
       "edition": "en",
       "displayName": "AI editorial angle finder (EN)",
       "summary": "Find recent AI news suitable for articles and suggest distinct editorial angles. Use for content planning and topic selection, without inventing facts.",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/ai-topics-en",
+      "install": "skillhub install ai-topics-en"
     },
     {
       "slug": "ai-weekly-en",
@@ -159,7 +193,9 @@
       "edition": "en",
       "displayName": "AI week in review (EN)",
       "summary": "Review AI news from the past seven days, grouped by topic. Use when the user asks for a weekly recap or wants to catch up after a week away.",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/ai-weekly-en",
+      "install": "skillhub install ai-weekly-en"
     },
     {
       "slug": "aitop-skill-en",
@@ -167,7 +203,9 @@
       "edition": "en",
       "displayName": "AITOP news assistant (EN)",
       "summary": "Read recent AI news, daily briefings, search results and story details from AITOP. Use for broad AI news requests and source verification.",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/aitop-skill-en",
+      "install": "skillhub install aitop-skill-en"
     },
     {
       "slug": "ai-asean",
@@ -175,7 +213,9 @@
       "edition": "zh",
       "displayName": "东南亚 AI 简报",
       "summary": "汇总东南亚（东盟）AI 的最新情况：本周东盟榜单、东盟相关融资与并购、东盟国家的 AI 政策。用于“东南亚 AI 最近怎么样”“新加坡/印尼/越南 AI 有什么动静”“出海东南亚要关注什么”“东盟 AI 周报”等关于东南亚 AI 市场的请求。",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/ai-asean",
+      "install": "skillhub install ai-asean"
     },
     {
       "slug": "ai-changelog",
@@ -183,7 +223,9 @@
       "edition": "zh",
       "displayName": "AI热报 更新日志",
       "summary": "获取 AI热报 平台自身的版本更新日志：新功能、改进与修复。用于“AI热报 最近更新了什么”“这个平台有新功能吗”“XX 功能是什么时候加的”“更新日志在哪看”等询问平台自身迭代的请求。注意区分：本 skill 说的是 AI热报 这个产品自己的更新，不是 AI 行业新闻。",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/ai-changelog",
+      "install": "skillhub install ai-changelog"
     },
     {
       "slug": "ai-daily",
@@ -191,7 +233,9 @@
       "edition": "zh",
       "displayName": "AI 日报",
       "summary": "获取 AITOP 每日精编 AI 日报。用于“今天的 AI 日报”“看下昨天的日报”“某月某日的 AI 日报”“最近几期日报”等明确要求日报的请求。日报是按日期定稿的编排内容，不是滚动时间窗。",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/ai-daily",
+      "install": "skillhub install ai-daily"
     },
     {
       "slug": "ai-editorial",
@@ -199,7 +243,9 @@
       "edition": "zh",
       "displayName": "AI 深度长文",
       "summary": "获取 AI热报 编辑团队撰写的 AI 深度文章与评述全文。用于“有没有写得更深一点的文章”“关于 XX 的长文/评述”“帮我把某件事的完整分析拿来”“有什么可以慢读的 AI 内容”等需要成篇论述而非快讯条目的请求。与 ai-news 的区别：ai-news 给的是几十字的新闻条目，本 skill 给的是完整正文。",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/ai-editorial",
+      "install": "skillhub install ai-editorial"
     },
     {
       "slug": "ai-funding",
@@ -207,7 +253,9 @@
       "edition": "zh",
       "displayName": "AI 投融资与政策",
       "summary": "追踪 AI 领域的融资、并购、公司动向与监管政策。用于“最近有什么 AI 融资”“XX 公司融资了吗”“AI 监管有什么新规定”“行业有什么大事”等关于商业与政策的请求。",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/ai-funding",
+      "install": "skillhub install ai-funding"
     },
     {
       "slug": "ai-funding-db",
@@ -215,7 +263,9 @@
       "edition": "zh",
       "displayName": "AI 融资数据表",
       "summary": "查询 AITOP 整理的 AI 融资与并购记录（公司、轮次、金额、投资方、日期），以及近 90 天的国家分布与总额统计。用于“最近有哪些 AI 公司拿了 B 轮”“新加坡 AI 公司融资情况”“最近 90 天 AI 融资总额”“某公司的融资记录”等需要具体交易数据的请求。只想看融资新闻快讯请用 ai-funding。",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/ai-funding-db",
+      "install": "skillhub install ai-funding-db"
     },
     {
       "slug": "ai-labs",
@@ -223,7 +273,9 @@
       "edition": "zh",
       "displayName": "大厂一手动态",
       "summary": "获取 OpenAI、Anthropic、Google、Meta 等 AI 厂商与实验室的官方一手发布。用于“OpenAI 官方最近发了什么”“各家大厂有什么动作”“官方博客有更新吗”等要求一手信源、排除媒体转述的请求。",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/ai-labs",
+      "install": "skillhub install ai-labs"
     },
     {
       "slug": "ai-model-db",
@@ -231,7 +283,9 @@
       "edition": "zh",
       "displayName": "大模型参数与价格库",
       "summary": "查询 AITOP 模型库里大模型的规格、价格与开源信息：机构、发布日期、参数规模、上下文长度、API 价格与调价记录、开放权重与协议。用于“Claude Opus 5.5 的 API 多少钱”“哪些开源模型可以商用”“上下文最长的模型有哪些”“Qwen 和 DeepSeek 价格对比”“某模型什么时候发布的”等选型与比价请求。模型的新闻动态请用 ai-models。",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/ai-model-db",
+      "install": "skillhub install ai-model-db"
     },
     {
       "slug": "ai-models",
@@ -239,7 +293,9 @@
       "edition": "zh",
       "displayName": "大模型发布追踪",
       "summary": "追踪大模型的发布、更新与版本迭代。用于“最近有什么新模型”“GPT/Claude/Gemini/Qwen 有更新吗”“最新的开源模型”“模型跑分对比”等关于大模型本身的请求。不涵盖 AI 产品、论文和融资。",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/ai-models",
+      "install": "skillhub install ai-models"
     },
     {
       "slug": "ai-news",
@@ -247,7 +303,9 @@
       "edition": "zh",
       "displayName": "AI 新闻速览",
       "summary": "获取最近 24 小时到几天内的 AI 行业新闻。用于“今天 AI 圈有什么”“最近 AI 有什么新闻”“这两天发生了什么”“有什么值得关注的 AI 动态”等询问近期 AI 消息的请求。",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/ai-news",
+      "install": "skillhub install ai-news"
     },
     {
       "slug": "ai-papers",
@@ -255,7 +313,9 @@
       "edition": "zh",
       "displayName": "AI 论文速递",
       "summary": "获取近期值得关注的 AI 研究论文。用于“最近有什么好论文”“这周的 AI 论文”“有没有关于 XX 方向的新研究”“arXiv 上有什么值得读的”等查找学术研究的请求。",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/ai-papers",
+      "install": "skillhub install ai-papers"
     },
     {
       "slug": "ai-policy-desk",
@@ -263,7 +323,9 @@
       "edition": "zh",
       "displayName": "AI 政策台",
       "summary": "查询 AITOP 政策台收录的 AI 法规、指引、标准、资助与监管沙盒：当前状态（征询中 / 已通过 / 已生效）、生效与征询截止日期、影响对象和应对动作。用于“欧盟 AI 法案什么时候生效”“哪些 AI 政策还在征询期”“越南、印尼有什么 AI 新规”“这条规定对模型提供方有什么影响”等合规与政策查询。监管新闻快讯请用 ai-funding。",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/ai-policy-desk",
+      "install": "skillhub install ai-policy-desk"
     },
     {
       "slug": "ai-rank",
@@ -271,7 +333,9 @@
       "edition": "zh",
       "displayName": "AI 周榜",
       "summary": "获取 AITOP 每周 AI 榜单：东盟、中国、全球、论文四个分榜，出海与资本等专题榜，以及东盟 AI 公司榜。用于“这周的 AI 周榜”“上周东盟 AI 最受关注的是什么”“本周论文榜”“AI 公司排行”等按周排行的请求。想要按主题归类的一周回顾请用 ai-weekly。",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/ai-rank",
+      "install": "skillhub install ai-rank"
     },
     {
       "slug": "ai-rising",
@@ -279,7 +343,9 @@
       "edition": "zh",
       "displayName": "AI 上升热榜",
       "summary": "查看 AITOP 按热度增速排出的 AI 上升榜。用于“现在 AI 圈什么最火”“什么在涨”“有什么正在发酵/出圈的事”“今天讨论最多的 AI 话题”“按热度排一下”等关注趋势与讨论量的请求。与 ai-news 的区别：ai-news 按时间给最新条目，本 skill 按增速给最热的话题词。",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/ai-rising",
+      "install": "skillhub install ai-rising"
     },
     {
       "slug": "ai-tools",
@@ -287,7 +353,9 @@
       "edition": "zh",
       "displayName": "AI 工具发现",
       "summary": "发现新的 AI 产品与工具。用于“最近有什么好用的 AI 工具”“有什么新 AI 产品”“有没有做 XX 的 AI 应用”“最近上线了什么”等寻找可用工具的请求。不涵盖模型本身和论文。",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/ai-tools",
+      "install": "skillhub install ai-tools"
     },
     {
       "slug": "ai-topic",
@@ -295,7 +363,9 @@
       "edition": "zh",
       "displayName": "AI 话题深挖",
       "summary": "围绕一个具体关键词（公司、产品、技术、事件）拉出 AITOP 的话题聚合视图：AI 综述、共现话题、首次出现时间与相关报道。用于“XX 这事儿到底怎么回事”“帮我梳理一下 XX 这条线”“XX 和 YY 有什么关系”“XX 最早什么时候出现的”“关于 XX 的资料都给我”等需要跨条目串联的请求。只想看某个词最新几条新闻请用 ai-news。",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/ai-topic",
+      "install": "skillhub install ai-topic"
     },
     {
       "slug": "ai-topics",
@@ -303,7 +373,9 @@
       "edition": "zh",
       "displayName": "AI 内容选题雷达",
       "summary": "为公众号、视频、newsletter 等内容创作找 AI 选题。用于“有什么可以写的 AI 选题”“帮我找个热点写文章”“这周适合做什么内容”“给我几个切入角度”等内容创作相关的请求。",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/ai-topics",
+      "install": "skillhub install ai-topics"
     },
     {
       "slug": "ai-weekly",
@@ -311,7 +383,9 @@
       "edition": "zh",
       "displayName": "AI 一周回顾",
       "summary": "汇总过去一周的 AI 行业动态。用于“这周 AI 发生了什么”“上周有什么重要的”“我一周没看了帮我补一下”“做个周报”等需要跨天汇总的请求。",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/ai-weekly",
+      "install": "skillhub install ai-weekly"
     },
     {
       "slug": "airebao",
@@ -319,7 +393,9 @@
       "edition": "zh",
       "displayName": "AI新闻 AI TOP NEWS",
       "summary": "查询、搜索和展开 AITOP 的 AI 行业动态与每日精编日报。用于“今天 AI 圈发生了什么”、近期模型/产品/论文/行业动态、指定关键词搜索、AITOP 日报、资讯详情、来源核对和原文引用等请求。",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/airebao",
+      "install": "skillhub install airebao"
     },
     {
       "slug": "airebao-daily",
@@ -327,7 +403,9 @@
       "edition": "zh",
       "displayName": "AI热报 AI 日报",
       "summary": "获取 AITOP 每日精编 AI 日报。用于“今天的 AI 日报”“看下昨天的日报”“某月某日的 AI 日报”“最近几期日报”等明确要求日报的请求。日报是按日期定稿的编排内容，不是滚动时间窗。",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/airebao-daily",
+      "install": "skillhub install airebao-daily"
     },
     {
       "slug": "airebao-news",
@@ -335,7 +413,9 @@
       "edition": "zh",
       "displayName": "AI热报 AI 新闻速览",
       "summary": "获取最近 24 小时到几天内的 AI 行业新闻。用于“今天 AI 圈有什么”“最近 AI 有什么新闻”“这两天发生了什么”“有什么值得关注的 AI 动态”等询问近期 AI 消息的请求。",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/airebao-news",
+      "install": "skillhub install airebao-news"
     },
     {
       "slug": "airebao-tools",
@@ -343,7 +423,9 @@
       "edition": "zh",
       "displayName": "AI热报 AI 工具发现",
       "summary": "发现新的 AI 产品与工具。用于“最近有什么好用的 AI 工具”“有什么新 AI 产品”“有没有做 XX 的 AI 应用”“最近上线了什么”等寻找可用工具的请求。不涵盖模型本身和论文。",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/airebao-tools",
+      "install": "skillhub install airebao-tools"
     },
     {
       "slug": "airibao",
@@ -351,7 +433,9 @@
       "edition": "zh",
       "displayName": "全球AI新闻【官方 AITOP.NEWS】",
       "summary": "查询、搜索和展开 AITOP 的 AI 行业动态与每日精编日报。用于“今天 AI 圈发生了什么”、近期模型/产品/论文/行业动态、指定关键词搜索、AITOP 日报、资讯详情、来源核对和原文引用等请求。",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/airibao",
+      "install": "skillhub install airibao"
     },
     {
       "slug": "aitop",
@@ -359,7 +443,9 @@
       "edition": "zh",
       "displayName": "AIHOT AITOP日报",
       "summary": "查询、搜索和展开 AITOP 的 AI 行业动态与每日精编日报。用于“今天 AI 圈发生了什么”、近期模型/产品/论文/行业动态、指定关键词搜索、AITOP 日报、资讯详情、来源核对和原文引用等请求。",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/aitop",
+      "install": "skillhub install aitop"
     },
     {
       "slug": "aitop-skill",
@@ -367,7 +453,9 @@
       "edition": "zh",
       "displayName": "AI热报 资讯助手",
       "summary": "查询、搜索和展开 AI热报 的 AI 行业动态与每日精编日报。用于“今天 AI 圈发生了什么”、近期模型/产品/论文/行业动态、指定关键词搜索、AI热报 日报、资讯详情、来源核对和原文引用等请求。",
-      "license": "MIT"
+      "license": "MIT",
+      "repo_url": "https://github.com/Airebao/aitop-skill",
+      "install": "skillhub install aitop-skill"
     }
   ]
 }

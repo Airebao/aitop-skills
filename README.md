@@ -2,11 +2,67 @@
 
 多源 AI 资讯聚合 + AI 评分平台（[airebao.com](https://airebao.com) 中文站 / [aitop.news](https://aitop.news) 英文站）的全套 Skill 包。
 
-一个后端、两套门面：**中文站 airebao.com（品牌「AI热报」）** 与 **英文站 aitop.news（品牌「AITOP」）**。同一份能力按站点分成两版发布，包名区分靠 `-en` 后缀。
+一个后端、两套门面：**中文站 airebao.com（品牌「AI热报」）** 与 **英文站 aitop.news（品牌「AITOP」）**。同一份能力按站点分成两版，包名区分靠 `-en` 后缀。
 
 - 版本：**1.7.0**
 - 包总数：**44**（中文 25 / 英文 19）
 - 发布平台：[SkillHub](https://skillhub.cn/skills/user_507a5056)
+
+## 每个 skill 都有独立仓库
+
+本仓库是**索引**（含全部包副本与生成脚本）。每个 skill 另外有一个独立仓库，根目录就是 `SKILL.md`，可以直接当 skill 源使用：
+
+```bash
+git clone https://github.com/Airebao/ai-news.git
+skillhub install ai-news
+```
+
+| skill | 独立仓库 |
+|---|---|
+| `ai-asean-en` | [ai-asean-en](https://github.com/Airebao/ai-asean-en) |
+| `ai-changelog-en` | [ai-changelog-en](https://github.com/Airebao/ai-changelog-en) |
+| `ai-daily-en` | [ai-daily-en](https://github.com/Airebao/ai-daily-en) |
+| `ai-editorial-en` | [ai-editorial-en](https://github.com/Airebao/ai-editorial-en) |
+| `ai-funding-db-en` | [ai-funding-db-en](https://github.com/Airebao/ai-funding-db-en) |
+| `ai-funding-en` | [ai-funding-en](https://github.com/Airebao/ai-funding-en) |
+| `ai-labs-en` | [ai-labs-en](https://github.com/Airebao/ai-labs-en) |
+| `ai-model-db-en` | [ai-model-db-en](https://github.com/Airebao/ai-model-db-en) |
+| `ai-models-en` | [ai-models-en](https://github.com/Airebao/ai-models-en) |
+| `ai-news-en` | [ai-news-en](https://github.com/Airebao/ai-news-en) |
+| `ai-papers-en` | [ai-papers-en](https://github.com/Airebao/ai-papers-en) |
+| `ai-policy-desk-en` | [ai-policy-desk-en](https://github.com/Airebao/ai-policy-desk-en) |
+| `ai-rank-en` | [ai-rank-en](https://github.com/Airebao/ai-rank-en) |
+| `ai-rising-en` | [ai-rising-en](https://github.com/Airebao/ai-rising-en) |
+| `ai-tools-en` | [ai-tools-en](https://github.com/Airebao/ai-tools-en) |
+| `ai-topic-en` | [ai-topic-en](https://github.com/Airebao/ai-topic-en) |
+| `ai-topics-en` | [ai-topics-en](https://github.com/Airebao/ai-topics-en) |
+| `ai-weekly-en` | [ai-weekly-en](https://github.com/Airebao/ai-weekly-en) |
+| `aitop-skill-en` | [aitop-skill-en](https://github.com/Airebao/aitop-skill-en) |
+| `ai-asean` | [ai-asean](https://github.com/Airebao/ai-asean) |
+| `ai-changelog` | [ai-changelog](https://github.com/Airebao/ai-changelog) |
+| `ai-daily` | [ai-daily](https://github.com/Airebao/ai-daily) |
+| `ai-editorial` | [ai-editorial](https://github.com/Airebao/ai-editorial) |
+| `ai-funding` | [ai-funding](https://github.com/Airebao/ai-funding) |
+| `ai-funding-db` | [ai-funding-db](https://github.com/Airebao/ai-funding-db) |
+| `ai-labs` | [ai-labs](https://github.com/Airebao/ai-labs) |
+| `ai-model-db` | [ai-model-db](https://github.com/Airebao/ai-model-db) |
+| `ai-models` | [ai-models](https://github.com/Airebao/ai-models) |
+| `ai-news` | [ai-news](https://github.com/Airebao/ai-news) |
+| `ai-papers` | [ai-papers](https://github.com/Airebao/ai-papers) |
+| `ai-policy-desk` | [ai-policy-desk](https://github.com/Airebao/ai-policy-desk) |
+| `ai-rank` | [ai-rank](https://github.com/Airebao/ai-rank) |
+| `ai-rising` | [ai-rising](https://github.com/Airebao/ai-rising) |
+| `ai-tools` | [ai-tools](https://github.com/Airebao/ai-tools) |
+| `ai-topic` | [ai-topic](https://github.com/Airebao/ai-topic) |
+| `ai-topics` | [ai-topics](https://github.com/Airebao/ai-topics) |
+| `ai-weekly` | [ai-weekly](https://github.com/Airebao/ai-weekly) |
+| `airebao` | [airebao](https://github.com/Airebao/airebao) |
+| `airebao-daily` | [airebao-daily](https://github.com/Airebao/airebao-daily) |
+| `airebao-news` | [airebao-news](https://github.com/Airebao/airebao-news) |
+| `airebao-tools` | [airebao-tools](https://github.com/Airebao/airebao-tools) |
+| `airibao` | [airibao](https://github.com/Airebao/airibao) |
+| `aitop` | [aitop](https://github.com/Airebao/aitop) |
+| `aitop-skill` | [aitop-skill](https://github.com/Airebao/aitop-skill) |
 
 ## 目录结构
 
@@ -14,22 +70,8 @@
 skills/<slug>/SKILL.md      # Skill 正文，目录名 = SkillHub 上的 slug
 skills/<slug>/_meta.json    # slug / version / displayName / summary / license
 scripts/                    # 生成这些包的脚本（可本地复现）
-index.json                  # 机器可读清单
+index.json                  # 机器可读清单（含每个包的独立仓库地址）
 ```
-
-`skills/` 下的目录名与 SkillHub 上的 slug **1:1 对应**，所以从 SkillHub 装的包，可以直接从这个仓库取同一份源文件。
-
-## 安装
-
-从 SkillHub 装（推荐）:
-
-```bash
-skillhub install aitop-skill        # 中文主包
-skillhub install aitop-skill-en     # 英文主包
-skillhub install ai-news            # 单个卫星包
-```
-
-直接从本仓库取用：把 `skills/<slug>/SKILL.md` 放进你的 skill 目录即可，包内已写明 Base URL、请求头与参数约定。
 
 ## 接入约定
 
